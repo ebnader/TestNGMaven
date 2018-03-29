@@ -14,6 +14,6 @@ import cucumber.api.testng.AbstractTestNGCucumberTests;
 //,plugin={""}
 //,tags={""}
 )
-public class Feature1Runner extends AbstractTestNGCucumberTests{
+public class Feature1Runner1 extends AbstractTestNGCucumberTests{
 
 }
