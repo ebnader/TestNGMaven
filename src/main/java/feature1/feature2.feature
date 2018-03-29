@@ -8,6 +8,6 @@ Then zxcvbnm fffdskjhkj
 
 @regression
 Scenario: f3f second fdjhjfdg
-Given IEEE-829 fdgdfskjk
+Given IEEE-dfgh fdgdfskjk
 When test cases is filkjnjkkdsljk dfgdfdf
 Then we are colose fdfdgjnjk

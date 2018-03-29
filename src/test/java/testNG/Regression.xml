@@ -3,8 +3,8 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
    <classes>
-       <class name="Feature1Runner" />
-       <class name="RegressionRunner" />
+       <class name="runner.Feature1Runner1" />
+       <class name="typeRunner.RegresionRunner" />
        
     </classes>
   </test> <!-- Test -->
